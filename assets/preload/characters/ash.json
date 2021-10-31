@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				441
+			],
+			"anim": "singUP",
+			"fps": 59,
+			"name": "ASH Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				32,
+				401
+			],
+			"anim": "idle",
+			"fps": 25,
+			"name": "ASH idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				298
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ASH Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				326
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ASH Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				374
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ASH Sing Note RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ash",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "ash",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		560,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

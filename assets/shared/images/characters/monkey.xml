@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="monkey.png">
+	<SubTexture name="monkeyidle0000" x="0" y="0" width="400" height="350"/>
+	<SubTexture name="monkeyidle0001" x="0" y="0" width="400" height="350"/>
+	<SubTexture name="monkeyidle0002" x="0" y="0" width="400" height="350"/>
+	<SubTexture name="monkeyidle0003" x="0" y="0" width="400" height="350"/>
+	<SubTexture name="monkeyidle0004" x="0" y="0" width="400" height="350"/>
+	<SubTexture name="monkeyidle0005" x="0" y="0" width="400" height="350"/>
+</TextureAtlas>

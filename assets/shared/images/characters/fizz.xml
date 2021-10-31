@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fizz.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fizzLEFT0000" x="0" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="564" frameHeight="900"/>
+	<SubTexture name="fizzLEFT0001" x="0" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="564" frameHeight="900"/>
+	<SubTexture name="fizzLEFT0002" x="0" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="564" frameHeight="900"/>
+	<SubTexture name="fizzLEFT0003" x="900" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="564" frameHeight="900"/>
+	<SubTexture name="fizzLEFT0004" x="1800" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="564" frameHeight="900"/>
+	<SubTexture name="fizzLEFT0005" x="1800" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="564" frameHeight="900"/>
+	<SubTexture name="fizzLEFT0006" x="1800" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="564" frameHeight="900"/>
+	<SubTexture name="fizzLEFT0007" x="1800" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="564" frameHeight="900"/>
+	<SubTexture name="fizzLEFT0008" x="1800" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="564" frameHeight="900"/>
+	<SubTexture name="fizzDOWN0000" x="1800" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="463" frameHeight="900"/>
+	<SubTexture name="fizzDOWN0001" x="1800" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="463" frameHeight="900"/>
+	<SubTexture name="fizzDOWN0002" x="1800" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="463" frameHeight="900"/>
+	<SubTexture name="fizzDOWN0003" x="2700" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="463" frameHeight="900"/>
+	<SubTexture name="fizzDOWN0004" x="3600" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="463" frameHeight="900"/>
+	<SubTexture name="fizzDOWN0005" x="3600" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="463" frameHeight="900"/>
+	<SubTexture name="fizzDOWN0006" x="3600" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="463" frameHeight="900"/>
+	<SubTexture name="fizzDOWN0007" x="3600" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="463" frameHeight="900"/>
+	<SubTexture name="fizzDOWN0008" x="3600" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="463" frameHeight="900"/>
+	<SubTexture name="fizzUP0000" x="2700" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="406" frameHeight="900"/>
+	<SubTexture name="fizzUP0001" x="2700" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="406" frameHeight="900"/>
+	<SubTexture name="fizzUP0002" x="2700" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="406" frameHeight="900"/>
+	<SubTexture name="fizzUP0003" x="3600" y="2900" width="900" height="700" frameX="55" frameY="-60" frameWidth="406" frameHeight="900"/>
+	<SubTexture name="fizzUP0004" x="0" y="3800" width="900" height="700" frameX="55" frameY="-60" frameWidth="406" frameHeight="900"/>
+	<SubTexture name="fizzUP0005" x="0" y="3800" width="900" height="700" frameX="55" frameY="-60" frameWidth="406" frameHeight="900"/>
+	<SubTexture name="fizzUP0006" x="0" y="3800" width="900" height="700" frameX="55" frameY="-60" frameWidth="406" frameHeight="900"/>
+	<SubTexture name="fizzUP0007" x="0" y="3800" width="900" height="700" frameX="55" frameY="-60" frameWidth="406" frameHeight="900"/>
+	<SubTexture name="fizzUP0008" x="0" y="3800" width="900" height="700" frameX="55" frameY="-60" frameWidth="406" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0000" x="0" y="200" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0001" x="0" y="200" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0002" x="900" y="200" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0003" x="900" y="200" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0004" x="1800" y="200" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0005" x="1800" y="200" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0006" x="2700" y="200" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0007" x="2700" y="200" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0008" x="3600" y="200" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0009" x="3600" y="200" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0010" x="0" y="1100" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0011" x="900" y="1100" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0012" x="900" y="1100" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0013" x="1800" y="1100" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0014" x="1800" y="1100" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0015" x="2700" y="1100" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzVIBE0016" x="2700" y="1100" width="900" height="700" frameX="55" frameY="-60" frameWidth="492" frameHeight="900"/>
+	<SubTexture name="fizzRIGHT0000" x="3600" y="1100" width="900" height="700" frameX="55" frameY="-60" frameWidth="442" frameHeight="900"/>
+	<SubTexture name="fizzRIGHT0001" x="3600" y="1100" width="900" height="700" frameX="55" frameY="-60" frameWidth="442" frameHeight="900"/>
+	<SubTexture name="fizzRIGHT0002" x="3600" y="1100" width="900" height="700" frameX="55" frameY="-60" frameWidth="442" frameHeight="900"/>
+	<SubTexture name="fizzRIGHT0003" x="0" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="442" frameHeight="900"/>
+	<SubTexture name="fizzRIGHT0004" x="900" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="442" frameHeight="900"/>
+	<SubTexture name="fizzRIGHT0005" x="900" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="442" frameHeight="900"/>
+	<SubTexture name="fizzRIGHT0006" x="900" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="442" frameHeight="900"/>
+	<SubTexture name="fizzRIGHT0007" x="900" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="442" frameHeight="900"/>
+	<SubTexture name="fizzRIGHT0008" x="900" y="2000" width="900" height="700" frameX="55" frameY="-60" frameWidth="442" frameHeight="900"/>
+	
+</TextureAtlas>

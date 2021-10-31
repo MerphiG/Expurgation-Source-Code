@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-31,
+				268
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "omori idle"
+		},
+		{
+			"offsets": [
+				-58,
+				225
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "omori down note"
+		},
+		{
+			"offsets": [
+				29,
+				276
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "omori left note"
+		},
+		{
+			"offsets": [
+				-31,
+				259
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "omori right note"
+		},
+		{
+			"offsets": [
+				45,
+				287
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "omori up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/omori",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "omori",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		590,
+		-260
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				57,
+				458
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Mom Idle"
+		},
+		{
+			"offsets": [
+				28,
+				324
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "MOM DOWN POSE"
+		},
+		{
+			"offsets": [
+				300,
+				434
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Mom Left Pose"
+		},
+		{
+			"offsets": [
+				87,
+				436
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Mom Pose Left"
+		},
+		{
+			"offsets": [
+				76,
+				492
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Mom Up Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ayana",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "ayana",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		180
+	],
+	"camera_position": [
+		480,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

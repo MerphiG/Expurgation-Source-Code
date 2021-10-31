@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="displo.png">
+	<SubTexture name="idle tv 20000" x="0" y="0" width="593" height="1131" frameX="0" frameY="-5" frameWidth="593" frameHeight="1136"/>
+	<SubTexture name="idle tv 20001" x="0" y="0" width="593" height="1131" frameX="0" frameY="-5" frameWidth="593" frameHeight="1136"/>
+	<SubTexture name="idle tv 20002" x="0" y="0" width="593" height="1131" frameX="0" frameY="-5" frameWidth="593" frameHeight="1136"/>
+	<SubTexture name="idle tv 20003" x="0" y="0" width="593" height="1131" frameX="0" frameY="-5" frameWidth="593" frameHeight="1136"/>
+	<SubTexture name="idle tv 20004" x="0" y="0" width="593" height="1131" frameX="0" frameY="-5" frameWidth="593" frameHeight="1136"/>
+	<SubTexture name="idle tv 20005" x="0" y="0" width="593" height="1131" frameX="0" frameY="-5" frameWidth="593" frameHeight="1136"/>
+	<SubTexture name="idle tv 20006" x="0" y="0" width="593" height="1131" frameX="0" frameY="-5" frameWidth="593" frameHeight="1136"/>
+	<SubTexture name="idle tv 20007" x="0" y="0" width="593" height="1131" frameX="0" frameY="-5" frameWidth="593" frameHeight="1136"/>
+	<SubTexture name="idle tv 20008" x="593" y="0" width="593" height="1136"/>
+	<SubTexture name="idle tv 20009" x="593" y="0" width="593" height="1136"/>
+	<SubTexture name="idle tv 20010" x="593" y="0" width="593" height="1136"/>
+	<SubTexture name="idle tv 20011" x="593" y="0" width="593" height="1136"/>
+	<SubTexture name="idle tv 20012" x="593" y="0" width="593" height="1136"/>
+	<SubTexture name="idle tv 20013" x="1186" y="0" width="593" height="1134" frameX="0" frameY="-2" frameWidth="593" frameHeight="1136"/>
+	<SubTexture name="idle tv 20014" x="1186" y="0" width="593" height="1134" frameX="0" frameY="-2" frameWidth="593" frameHeight="1136"/>
+	<SubTexture name="tv down 20000" x="1779" y="0" width="593" height="1131"/>
+	<SubTexture name="tv down 20001" x="1779" y="0" width="593" height="1131"/>
+	<SubTexture name="tv down 20002" x="2372" y="0" width="593" height="1131"/>
+	<SubTexture name="tv down 20003" x="2372" y="0" width="593" height="1131"/>
+	<SubTexture name="tv down 20004" x="2372" y="0" width="593" height="1131"/>
+	<SubTexture name="tv down 20005" x="2372" y="0" width="593" height="1131"/>
+	<SubTexture name="tv down 20006" x="2372" y="0" width="593" height="1131"/>
+	<SubTexture name="tv down 20007" x="2372" y="0" width="593" height="1131"/>
+	<SubTexture name="tv down 20008" x="2372" y="0" width="593" height="1131"/>
+	<SubTexture name="tv down 20009" x="2372" y="0" width="593" height="1131"/>
+	<SubTexture name="tv left 20000" x="2965" y="0" width="593" height="1131"/>
+	<SubTexture name="tv left 20001" x="2965" y="0" width="593" height="1131"/>
+	<SubTexture name="tv left 20002" x="0" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv left 20003" x="0" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv left 20004" x="0" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv left 20005" x="0" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv left 20006" x="0" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv left 20007" x="0" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv left 20008" x="0" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv left 20009" x="0" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv right 20000" x="593" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv right 20001" x="593" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv right 20002" x="1186" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv right 20003" x="1186" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv right 20004" x="1186" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv right 20005" x="1186" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv right 20006" x="1186" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv right 20007" x="1186" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv right 20008" x="1186" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv right 20009" x="1186" y="1136" width="593" height="1131"/>
+	<SubTexture name="tv up 20000" x="1779" y="1136" width="593" height="1136" frameX="0" frameY="-2" frameWidth="593" frameHeight="1138"/>
+	<SubTexture name="tv up 20001" x="1779" y="1136" width="593" height="1136" frameX="0" frameY="-2" frameWidth="593" frameHeight="1138"/>
+	<SubTexture name="tv up 20002" x="2372" y="1136" width="593" height="1138"/>
+	<SubTexture name="tv up 20003" x="2372" y="1136" width="593" height="1138"/>
+	<SubTexture name="tv up 20004" x="2372" y="1136" width="593" height="1138"/>
+	<SubTexture name="tv up 20005" x="2372" y="1136" width="593" height="1138"/>
+	<SubTexture name="tv up 20006" x="2372" y="1136" width="593" height="1138"/>
+	<SubTexture name="tv up 20007" x="2372" y="1136" width="593" height="1138"/>
+	<SubTexture name="tv up 20008" x="2372" y="1136" width="593" height="1138"/>
+	<SubTexture name="tv up 20009" x="2372" y="1136" width="593" height="1138"/>
+</TextureAtlas>

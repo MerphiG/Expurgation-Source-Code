@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-61,
+				350
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "fizzDOWN"
+		},
+		{
+			"offsets": [
+				-129,
+				333
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fizzUP"
+		},
+		{
+			"offsets": [
+				-52,
+				356
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "fizzVIBE"
+		},
+		{
+			"offsets": [
+				-92,
+				349
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fizzRIGHT"
+		},
+		{
+			"offsets": [
+				43,
+				356
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "fizzLEFT"
+		},
+		{
+			"offsets": [
+				-92,
+				349
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "fizzRIGHT"
+		},
+		{
+			"offsets": [
+				43,
+				356
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "fizzLEFT"
+		},
+		{
+			"offsets": [
+				-61,
+				350
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "fizzDOWN"
+		},
+		{
+			"offsets": [
+				-129,
+				333
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "fizzUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fizz",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "fizz",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		35,
+		80
+	],
+	"camera_position": [
+		60,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

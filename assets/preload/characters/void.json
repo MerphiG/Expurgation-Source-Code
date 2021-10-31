@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				416,
+				450
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Void Idle"
+		},
+		{
+			"offsets": [
+				472,
+				420
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Void Down Note Chill"
+		},
+		{
+			"offsets": [
+				436,
+				467
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Void Left Note Chill"
+		},
+		{
+			"offsets": [
+				581,
+				419
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Void Right Note Chill"
+		},
+		{
+			"offsets": [
+				389,
+				471
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Void Up Note Chill"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/void_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "void",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		40,
+		255
+	],
+	"camera_position": [
+		280,
+		-370
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

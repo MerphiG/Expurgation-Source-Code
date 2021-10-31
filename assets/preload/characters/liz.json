@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "liz down pose"
+		},
+		{
+			"offsets": [
+				94,
+				55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "liz idle"
+		},
+		{
+			"offsets": [
+				-1,
+				48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "liz left pose"
+		},
+		{
+			"offsets": [
+				77,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "liz right pose"
+		},
+		{
+			"offsets": [
+				28,
+				26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "liz up pose"
+		},
+		{
+			"offsets": [
+				37,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "liz down pose"
+		},
+		{
+			"offsets": [
+				-1,
+				48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "liz left pose"
+		},
+		{
+			"offsets": [
+				77,
+				25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "liz right pose"
+		},
+		{
+			"offsets": [
+				28,
+				26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "liz up pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/liz",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "liz",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		140
+	],
+	"camera_position": [
+		60,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

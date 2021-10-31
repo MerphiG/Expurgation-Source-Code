@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				103,
+				225
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				229
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dad sing note right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				155,
+				288
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				200
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				102,
+				168
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jeff",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "jeff",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		0,
+		40
+	],
+	"camera_position": [
+		450,
+		-260
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

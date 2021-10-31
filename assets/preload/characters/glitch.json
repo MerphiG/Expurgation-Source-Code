@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				68
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SENPAI DOWN NOTE instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SENPAI UP NOTE instance ",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-70,
+				57
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Senpai Idle instance ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-64,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SENPAI RIGHT NOTE instance "
+		},
+		{
+			"offsets": [
+				-86,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SENPAI LEFT NOTE instance "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				68
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "SENPAI DOWN NOTE instance ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				90
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "SENPAI UP NOTE instance ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-64,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "SENPAI RIGHT NOTE instance "
+		},
+		{
+			"offsets": [
+				-86,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "SENPAI LEFT NOTE instance "
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/glitch",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "glitch",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		215,
+		40
+	],
+	"camera_position": [
+		380,
+		-440
+	],
+	"sing_duration": 4,
+	"scale": 5.5
+}

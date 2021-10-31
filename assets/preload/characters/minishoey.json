@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				98,
+				393
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Minishoey idle dance"
+		},
+		{
+			"offsets": [
+				112,
+				407
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Minishoey Sing Note UP"
+		},
+		{
+			"offsets": [
+				71,
+				398
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Minishoey Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				105,
+				396
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Minishoey Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				80,
+				380
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Minishoey Sing Note DOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minishoey",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "minishoey",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		200,
+		120
+	],
+	"camera_position": [
+		570,
+		-360
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

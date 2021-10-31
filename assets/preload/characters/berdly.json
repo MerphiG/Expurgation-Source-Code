@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				325,
+				351
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BerdIdle"
+		},
+		{
+			"offsets": [
+				488,
+				272
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BerdLefto"
+		},
+		{
+			"offsets": [
+				250,
+				325
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BerdDowno"
+		},
+		{
+			"offsets": [
+				240,
+				358
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BerdRighto"
+		},
+		{
+			"offsets": [
+				250,
+				411
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BerdUpo"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/berdly",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "berdly",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		160,
+		255
+	],
+	"camera_position": [
+		410,
+		-320
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				427
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "LuciferSarvDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				417
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LuciferSarvUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				424
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LuciferSarvRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				424
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LuciferSarvLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				420
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "LuciferSarvIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				427
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "LuciferSarvDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				417
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "LuciferSarvUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				424
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LuciferSarvRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				424
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "LuciferSarvLeft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sarvente",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sarvente",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		60,
+		155
+	],
+	"camera_position": [
+		60,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

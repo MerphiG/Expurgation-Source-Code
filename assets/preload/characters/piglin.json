@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				377,
+				291
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Piglin down"
+		},
+		{
+			"offsets": [
+				375,
+				296
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Piglin idle"
+		},
+		{
+			"offsets": [
+				376,
+				294
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Piglin left"
+		},
+		{
+			"offsets": [
+				375,
+				292
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Piglin up"
+		},
+		{
+			"offsets": [
+				377,
+				292
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Piglin right"
+		},
+		{
+			"offsets": [
+				377,
+				291
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Piglin down"
+		},
+		{
+			"offsets": [
+				376,
+				294
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Piglin left"
+		},
+		{
+			"offsets": [
+				375,
+				292
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Piglin up"
+		},
+		{
+			"offsets": [
+				377,
+				292
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Piglin right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/piglin",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "piglin",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		80
+	],
+	"camera_position": [
+		60,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

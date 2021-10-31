@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				146,
+				518
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RuvIdle"
+		},
+		{
+			"offsets": [
+				175,
+				455
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RuvLeft"
+		},
+		{
+			"offsets": [
+				134,
+				524
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RuvRight"
+		},
+		{
+			"offsets": [
+				145,
+				522
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RuvUp"
+		},
+		{
+			"offsets": [
+				109,
+				524
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RuvDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ruv",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "ruv",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		155,
+		195
+	],
+	"camera_position": [
+		460,
+		-410
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

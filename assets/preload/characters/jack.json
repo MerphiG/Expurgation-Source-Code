@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-89,
+				63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Jack_Micsong3 Down"
+		},
+		{
+			"offsets": [
+				-126,
+				112
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Jack_Micsong3 Left"
+		},
+		{
+			"offsets": [
+				-48,
+				97
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Jack_Micsong3 Right"
+		},
+		{
+			"offsets": [
+				-128,
+				136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Jack_Micsong3 Up"
+		},
+		{
+			"offsets": [
+				-92,
+				108
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Jack_idleMicsong3"
+		},
+		{
+			"offsets": [
+				-89,
+				63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Jack_Micsong3 Down"
+		},
+		{
+			"offsets": [
+				-126,
+				112
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Jack_Micsong3 Left"
+		},
+		{
+			"offsets": [
+				-48,
+				97
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Jack_Micsong3 Right"
+		},
+		{
+			"offsets": [
+				-128,
+				136
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Jack_Micsong3 Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jack",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "jack",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		51,
+		51
+	],
+	"camera_position": [
+		60,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

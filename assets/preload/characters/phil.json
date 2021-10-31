@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				182,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "phil Down Note0"
+		},
+		{
+			"offsets": [
+				30,
+				67
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "phil Idle Dance0"
+		},
+		{
+			"offsets": [
+				124,
+				54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "phil NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				3,
+				64
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "phil Note Right0"
+		},
+		{
+			"offsets": [
+				53,
+				85
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "phil Up note0"
+		},
+		{
+			"offsets": [
+				182,
+				-12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "phil Down Note0"
+		},
+		{
+			"offsets": [
+				124,
+				54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "phil NOTE LEFT0"
+		},
+		{
+			"offsets": [
+				3,
+				64
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "phil Note Right0"
+		},
+		{
+			"offsets": [
+				53,
+				85
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "phil Up note0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/phil",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "phil",
+	"flip_x": true,
+	"healthbar_colors": [
+		220,
+		175,
+		180
+	],
+	"camera_position": [
+		60,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

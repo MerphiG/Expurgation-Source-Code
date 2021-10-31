@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				273
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NoteDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				308
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "NoteLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				315
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "NoteRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				341
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NoteUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				326
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nonsense",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "nonsense",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		235,
+		255
+	],
+	"camera_position": [
+		590,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

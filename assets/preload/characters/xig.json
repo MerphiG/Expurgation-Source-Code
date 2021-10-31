@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "xigidle"
+		},
+		{
+			"offsets": [
+				-36,
+				201
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "xigleft"
+		},
+		{
+			"offsets": [
+				77,
+				187
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "xigright"
+		},
+		{
+			"offsets": [
+				-1,
+				219
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "xigup"
+		},
+		{
+			"offsets": [
+				82,
+				134
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "xigdown"
+		},
+		{
+			"offsets": [
+				-36,
+				201
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "xigleft"
+		},
+		{
+			"offsets": [
+				77,
+				187
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "xigright"
+		},
+		{
+			"offsets": [
+				-1,
+				219
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "xigup"
+		},
+		{
+			"offsets": [
+				82,
+				134
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "xigdown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/xig",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "xig",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		155,
+		40
+	],
+	"camera_position": [
+		60,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

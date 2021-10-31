@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				318
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "taylor Idle Dance"
+		},
+		{
+			"offsets": [
+				143,
+				319
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "taylor Note DOWN"
+		},
+		{
+			"offsets": [
+				171,
+				318
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "taylor Note LEFT"
+		},
+		{
+			"offsets": [
+				143,
+				318
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "taylor Note RIGHT"
+		},
+		{
+			"offsets": [
+				142,
+				318
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "taylor Note UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/taylor",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "taylor",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		60
+	],
+	"camera_position": [
+		410,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

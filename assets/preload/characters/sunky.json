@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				242,
+				246
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sunkyDOWN instance "
+		},
+		{
+			"offsets": [
+				199,
+				225
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "sunkyIDLE instance "
+		},
+		{
+			"offsets": [
+				280,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sunkyLEFT instance "
+		},
+		{
+			"offsets": [
+				201,
+				228
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sunkyRIGHT instance "
+		},
+		{
+			"offsets": [
+				264,
+				238
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sunkyUP instance "
+		},
+		{
+			"offsets": [
+				242,
+				246
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "sunkyDOWN instance "
+		},
+		{
+			"offsets": [
+				280,
+				230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "sunkyLEFT instance "
+		},
+		{
+			"offsets": [
+				201,
+				228
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "sunkyRIGHT instance "
+		},
+		{
+			"offsets": [
+				264,
+				238
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "sunkyUP instance "
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sunky",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sunky",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		100,
+		175
+	],
+	"camera_position": [
+		60,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

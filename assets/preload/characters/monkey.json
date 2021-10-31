@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				98,
+				14
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "monkeyidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				98,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "monkeyidle"
+		},
+		{
+			"offsets": [
+				98,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "monkeyidle"
+		},
+		{
+			"offsets": [
+				98,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "monkeyidle"
+		},
+		{
+			"offsets": [
+				98,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "monkeyidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/monkey",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "monkey",
+	"flip_x": false,
+	"healthbar_colors": [
+		120,
+		120,
+		120
+	],
+	"camera_position": [
+		520,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

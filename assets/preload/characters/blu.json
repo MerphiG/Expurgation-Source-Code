@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				292
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Bluskys Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				302
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Bluskys Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				301
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Bluskys Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				351
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Bluskys Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				47,
+				314
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Bluskys idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				291
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Bluskys Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				301
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Bluskys Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				301
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Bluskys Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				350
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Bluskys Sing Note UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blu",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "blu",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		140,
+		255
+	],
+	"camera_position": [
+		60,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

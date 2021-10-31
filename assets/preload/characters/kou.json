@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-18,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Kou Down Note"
+		},
+		{
+			"offsets": [
+				10,
+				77
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Kou Idle Pose"
+		},
+		{
+			"offsets": [
+				-19,
+				55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Kou Left Note"
+		},
+		{
+			"offsets": [
+				21,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Kou Right Note"
+		},
+		{
+			"offsets": [
+				6,
+				65
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Kou Up Note"
+		},
+		{
+			"offsets": [
+				-18,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Kou Down Note"
+		},
+		{
+			"offsets": [
+				-19,
+				55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Kou Left Note"
+		},
+		{
+			"offsets": [
+				21,
+				16
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Kou Right Note"
+		},
+		{
+			"offsets": [
+				6,
+				65
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Kou Up Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kou",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "kou",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		255,
+		255
+	],
+	"camera_position": [
+		60,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

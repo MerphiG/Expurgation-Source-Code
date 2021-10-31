@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				139,
+				357
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "roro Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				314
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "roro Down Note ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				315
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "roro Up Note ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				357
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "roro Left Note ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				350
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "roro Right Note ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				314
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "roro Down Note ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				315
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "roro Up Note ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				359
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "roro Left Note ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				350
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "roro Right Note ",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/roro",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "roro",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		235,
+		75
+	],
+	"camera_position": [
+		60,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

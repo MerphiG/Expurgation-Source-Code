@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				409
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "updingdong down note"
+		},
+		{
+			"offsets": [
+				91,
+				408
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "updingdong idle"
+		},
+		{
+			"offsets": [
+				89,
+				408
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "updingdong left note"
+		},
+		{
+			"offsets": [
+				92,
+				408
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "updingdong right note"
+		},
+		{
+			"offsets": [
+				90,
+				407
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "updingdong up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/updike",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "updike",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		195,
+		195
+	],
+	"camera_position": [
+		440,
+		-390
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

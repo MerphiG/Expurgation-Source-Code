@@ -1,0 +1,29 @@
+{
+	"songs": [
+		[
+			"expurgation",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "ex",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "expurgation but everyone sings it",
+	"weekName": "expurgation",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

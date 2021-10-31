@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				296,
+				458
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				470,
+				432
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [
+				279,
+				439
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				196,
+				491
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sing Up"
+		},
+		{
+			"offsets": [
+				308,
+				422
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sing Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zardy",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "zardy",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		80,
+		100
+	],
+	"camera_position": [
+		320,
+		-390
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

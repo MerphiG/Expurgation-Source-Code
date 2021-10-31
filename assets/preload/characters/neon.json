@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				16,
+				125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SENPAI DOWN NOTE instance "
+		},
+		{
+			"offsets": [
+				16,
+				125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Senpai Idle instance "
+		},
+		{
+			"offsets": [
+				16,
+				125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SENPAI LEFT NOTE instance "
+		},
+		{
+			"offsets": [
+				11,
+				125
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SENPAI RIGHT NOTE instance "
+		},
+		{
+			"offsets": [
+				16,
+				135
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SENPAI UP NOTE instance "
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/neon",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "neon",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		215,
+		60
+	],
+	"camera_position": [
+		410,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 5
+}
